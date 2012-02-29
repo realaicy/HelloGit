@@ -14,7 +14,7 @@ public class TestGit {
 	 */
 	public static void main(String[] args) {
 
-		System.out.println("Hello Git, I am coming.");
+		System.out.println("Hello Git, I am coming. Haha, My name is Xudong Liu");
 
 	}
 
